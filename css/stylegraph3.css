@@ -1,0 +1,139 @@
+body
+{
+	margin:0 auto;
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	font-family:Courier New, monospace;
+}
+
+#bandeau
+{ 
+    position: absolute;
+    margin-left:-8px;
+    top: 0px;
+    width: 101.5%;
+    height:22.85%;
+    */border: 13px solid #73AD21;
+    z-index: 4;
+	background-image: url("../image/atte.png");
+	background-position :center ;
+	text-align: center;
+	font-size:48px;
+}
+
+
+#logosomax
+{
+	background-image :url("../image/logosomax.jpg");
+	height:108px;
+	width:100%;
+	background-repeat:no-repeat;
+	margin-top: 1.8%;
+	margin-left: 2%;
+}
+
+
+#logoclient
+{
+	background-image :url("../image/logoclient.png");
+	height:108px;
+	background-repeat:no-repeat;
+	margin-top: -6.5%;
+	margin-left: 93%;
+}
+
+#titre
+{
+	background-color:rgba(206,206,206,1);
+	width : 100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:3%;
+	border-radius:;
+	border-style:solid;
+	border-width: 2px;
+	border-color: rgba(158,158,158,1);
+}
+
+
+#page
+{
+	background-color:rgba(224,227,224,1);
+	height:35cm;
+	width : 100%; 
+	margin-top : 16%;
+	
+}
+
+
+#titre2
+{
+	margin-top:0px;
+	text-align:center;
+	color: red;
+	font-size:20px;
+}
+
+
+#div1
+{
+	top: 12px;
+	left: 10px;
+	position: relative;	
+}
+
+#graph1
+{
+	position: relative;
+	font-size: 17px;
+	color: black;
+	top: 15px;
+    left: 20px;	
+} 
+
+#radio1
+{
+	position: relative;
+	left: 150px;
+	top: 40px;
+	
+}
+
+#div2
+{
+	top: -60px;
+	left: 400px;
+	position: relative;		
+}
+
+#graph2
+{
+	position: relative;
+	font-size: 17px;
+	color: black;
+    top: 15px;
+	left: 75px;
+	
+}
+
+#radio2
+{
+	position: relative;
+	right :-250px;
+	top: 20px;
+}
+
+#titre3
+{
+	margin-top:0px;
+	text-align:center;
+	color: black;
+	font-size:20px;
+}
+
+#image
+{
+	position: absolute;
+	right: 20px;
+}
