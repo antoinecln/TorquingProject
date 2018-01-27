@@ -18,6 +18,7 @@ PREREQUIS
 3) Une BDD Mysql (comprise dans Wamp) structurée (Tables,Champs,Liaisons/...)
 4) Les fichiers JpGraph, nécessaire pour la création des graphiques, vous trouverez les fichiers ici : http://jpgraph.net/download/
 A noter que j'ai utiliser cette librairie en version 4.0.2, des modifications/améliorations ont surement été effectuées depuis.
+Cette librairie est à garder sous forme de dossier et à copier directement dans votre projet à la racine de votre site. 
 
 ------------
 EXPLICATIONS
@@ -52,7 +53,7 @@ Pour tableaugraph2.php, il s'agit d'un tableau de sélection, c'est une étape q
 
 Voila voila, tout les fichiers sont commentés mais si vous avez des questions n'hésitez pas. 
 
-Je vous met aussi le dossier qui contient les CSS et la librairie Jpgraph que j'ai utiliser si vous en avez besoin, une page structurée sera plus compréhensible je pense. :) 
+Je vous met aussi le dossier qui contient les CSS si vous en avez besoin, une page structurée sera plus compréhensible je pense. :) 
 
 Merci également de me faire un retour sur vos travaux/projets quand vous aurez du temps. 
 
