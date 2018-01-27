@@ -52,7 +52,7 @@ Pour tableaugraph2.php, il s'agit d'un tableau de sélection, c'est une étape q
 
 Voila voila, tout les fichiers sont commentés mais si vous avez des questions n'hésitez pas. 
 
-Je vous met aussi le dossier qui contient les CSS si vous en avez besoin, une page structurée sera plus compréhensible je pense. :) 
+Je vous met aussi le dossier qui contient les CSS et la librairie Jpgraph que j'ai utiliser si vous en avez besoin, une page structurée sera plus compréhensible je pense. :) 
 
 Merci également de me faire un retour sur vos travaux/projets quand vous aurez du temps. 
 
