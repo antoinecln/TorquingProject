@@ -31,7 +31,7 @@ Je vais essayer de vous expliquez le plus synthétiquement possible le rôle de 
 2) listeeolienneanalyse.php
 listeparcanalyse.php
 listezoneanalyse.php => Ces 3 fichiers sont des formulaires de choix directement allimenté par la base de données. 
-Ils sont indépendants les uns des autres, les choix saisies sur ces formulaires impacts les résultats des autres. 
+Ils sont dépendants les uns des autres, les choix saisies sur ces formulaires impacts les résultats des autres. 
 
 3) pageeolienne.php
 pageparc.php
